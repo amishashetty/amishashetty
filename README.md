@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FLAMES Android App<br>🌱 I’m currently learning Java Full Stack Development<br>💬 Ask me about Java HTML CSS React JavaScript<br>📄 Know about my experiences https://meashwin.github.io/Portfolio/Images/Resume.pdf<br>📫 How to reach me ashwinme.nrp@gmail.com<br>⚡ Hobbies Football and Music
+🔭 I’m currently working on FLAMES Android App<br>🌱 I’m currently learning Java Full Stack Development<br>💬 Ask me about Java HTML CSS React JavaScript<br>📫 How to reach me amisha.a.shetty@gmail.com<br>⚡ Hobbies Watching movies and Listening to Music
 
 
 ## 🌐 Socials:
